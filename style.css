@@ -1,8 +1,10 @@
 .users div {
-    border: solid 2px orangered;
+    border-radius: 20px;
+    border: none;
     width: 20%;
     padding: 20px;
-    background-color: black;
+    background-color: green;
+    color: white;
 }
 
 .users {
