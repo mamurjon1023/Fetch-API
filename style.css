@@ -1,7 +1,8 @@
 .users div {
-    border: solid 2px red;
+    border: solid 2px orangered;
     width: 20%;
     padding: 20px;
+    background-color: black;
 }
 
 .users {
